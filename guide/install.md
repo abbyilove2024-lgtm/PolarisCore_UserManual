@@ -4,7 +4,7 @@
 
 请根据你的操作系统下载对应的安装包：
 
-👉 [https://xskillhub.com/](https://xskillhub.com/)
+👉 [https://polariscore.ai/](https://polariscore.ai/)
 
 下载完成后按系统默认方式安装即可。
 
