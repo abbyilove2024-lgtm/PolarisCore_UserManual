@@ -1,7 +1,6 @@
 # Polaris Core软件使用手册
 
 > 版本：v1.0
-> 站点：[https://polariscore.gitbook.io](https://polariscore.gitbook.io)
 
 紫微Agent (Polaris Core) 是一款基于大模型驱动的强通用型 AI 助手。它通过本地化的执行能力与丰富的 **Skill（技能）** 生态，协助你高效处理网页信息提取、数据分析、文档处理及系统任务排查等复杂场景。
 
