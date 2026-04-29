@@ -1,6 +1,6 @@
 # Table of contents
 
-* [紫微Agent 使用手册](README.md)
+* [Polaris Core 使用手册](README.md)
 
 ## 使用指南
 
